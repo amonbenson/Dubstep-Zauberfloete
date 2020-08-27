@@ -1,7 +1,7 @@
 {
     "editor.tabSize": 4,
     "files.associations": {
-        "*.h": "c",
+        "*.h": "cpp",
         "array": "cpp",
         "string": "cpp",
         "*.tcc": "cpp",
